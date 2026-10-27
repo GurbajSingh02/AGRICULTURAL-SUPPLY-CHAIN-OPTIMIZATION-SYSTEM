@@ -1,0 +1,22 @@
+d="62714" title=".gitignore"}
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and generated files
+pycache/
+.py[cod]
+.pytest_cache/
+
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Environment files and secrets
+.env
+.env.
+!.env.example
+
+# macOS system files
+.DS_S
